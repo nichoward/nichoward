@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nichoward an up and coming data scientist
+- 👋🏾 Hi, I’m @nichoward an up and coming data scientist
 - 🌱 I’m currently learning ml flow! 
 - 💞️ I’m looking to collaborate on anything related to making R ml flow better. 
 - 📫 Hit me up nic.d.how@gmail.com
